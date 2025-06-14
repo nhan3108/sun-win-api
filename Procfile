@@ -1,1 +1,1 @@
-echo web: python apisunv5.py > Procfile
+web: python apisunv5.py
